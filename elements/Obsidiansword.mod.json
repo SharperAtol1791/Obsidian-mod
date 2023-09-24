@@ -1,5 +1,5 @@
 {
-  "_fv": 39,
+  "_fv": 43,
   "_type": "tool",
   "definition": {
     "renderType": 0,
@@ -11,15 +11,19 @@
       "value": "CUSTOM:Obsidianmod"
     },
     "toolType": "Sword",
-    "harvestLevel": 4,
-    "efficiency": 9.0,
+    "harvestLevel": 6,
+    "efficiency": 16.0,
     "attackSpeed": 1.0,
-    "enchantability": 17,
-    "damageVsEntity": 14.0,
-    "usageCount": 3072,
+    "enchantability": 16,
+    "damageVsEntity": 19.0,
+    "usageCount": 3678,
     "blocksAffected": [],
     "hasGlow": false,
-    "repairItems": [],
+    "repairItems": [
+      {
+        "value": "CUSTOM:Obsidianingot"
+      }
+    ],
     "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "obsdian_mod:obsidianingot"
+    },
+    "1": {
+      "item": "obsdian_mod:obsidianingot"
+    },
+    "2": {
+      "item": "obsdian_mod:obsidianingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "obsdian_mod:obsidianpickaxe",
+    "count": 1
+  }
+}

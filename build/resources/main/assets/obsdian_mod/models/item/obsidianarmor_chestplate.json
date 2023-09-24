@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "obsdian_mod:item/obsidian_body"
+  }
+}
