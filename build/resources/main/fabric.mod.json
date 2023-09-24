@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "obsdian_mod",
+  "version": "1.0.0",
+  "name": "Obsidian mod",
+  "description": "Mod adds Obsidian tools",
+  "authors": [
+    "SharperAtol1791"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": ""
+  },
+  "license": "GNU General Public License version 3 (GPLv3)",
+  "icon": "assets/obsdian_mod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.obsidian_mod.ObsdianModMod"
+    ],
+    "client": [
+      "net.mcreator.obsidian_mod.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric": "*",
+    "minecraft": "~1.20",
+    "java": ">=17"
+  },
+  "mixins": [
+    "obsdian_mod.mixins.json"
+  ]
+}
