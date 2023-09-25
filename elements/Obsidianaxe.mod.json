@@ -1,29 +1,25 @@
 {
-  "_fv": 43,
+  "_fv": 39,
   "_type": "tool",
   "definition": {
     "renderType": 0,
     "texture": "obsidian__axe",
     "customModelName": "Normal",
-    "name": "Obsidian axe",
+    "name": "Obsidianaxe",
     "specialInfo": [],
     "creativeTab": {
       "value": "CUSTOM:Obsidianmod"
     },
     "toolType": "Axe",
-    "harvestLevel": 6,
-    "efficiency": 16.0,
+    "harvestLevel": 4,
+    "efficiency": 9.0,
     "attackSpeed": 1.0,
-    "enchantability": 16,
-    "damageVsEntity": 6.0,
-    "usageCount": 3678,
+    "enchantability": 17,
+    "damageVsEntity": 7.0,
+    "usageCount": 3072,
     "blocksAffected": [],
     "hasGlow": false,
-    "repairItems": [
-      {
-        "value": "CUSTOM:Obsidianingot"
-      }
-    ],
+    "repairItems": [],
     "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false

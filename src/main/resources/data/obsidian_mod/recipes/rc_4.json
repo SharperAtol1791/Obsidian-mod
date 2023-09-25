@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 ",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "obsidian_mod:obsidianingot"
+    },
+    "1": {
+      "item": "obsidian_mod:obsidianingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "obsidian_mod:obsidianhoe",
+    "count": 1
+  }
+}
