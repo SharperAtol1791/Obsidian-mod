@@ -66,7 +66,6 @@ public abstract class ObsidianarmorItem extends ArmorItem {
 	}
 
 	public static class Helmet extends ObsidianarmorItem {
-
 		public Helmet() {
 			super(Type.HELMET, new Item.Properties());
 			ItemGroupEvents.modifyEntriesEvent(ObsdianModModTabs.TAB_OBSIDIANMOD).register(content -> content.accept(this));

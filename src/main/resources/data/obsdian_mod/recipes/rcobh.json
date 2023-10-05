@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "obsdian_mod:obsidianingot"
+    },
+    "1": {
+      "item": "obsdian_mod:obsidianingot"
+    },
+    "2": {
+      "item": "obsdian_mod:obsidianingot"
+    },
+    "3": {
+      "item": "obsdian_mod:obsidianingot"
+    },
+    "5": {
+      "item": "obsdian_mod:obsidianingot"
+    }
+  },
+  "result": {
+    "item": "obsdian_mod:obsidianarmor_helmet",
+    "count": 1
+  }
+}

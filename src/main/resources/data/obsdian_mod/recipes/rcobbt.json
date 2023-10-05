@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "obsdian_mod:obsidianingot"
+    },
+    "2": {
+      "item": "obsdian_mod:obsidianingot"
+    },
+    "3": {
+      "item": "obsdian_mod:obsidianingot"
+    },
+    "5": {
+      "item": "obsdian_mod:obsidianingot"
+    }
+  },
+  "result": {
+    "item": "obsdian_mod:obsidianarmor_boots",
+    "count": 1
+  }
+}

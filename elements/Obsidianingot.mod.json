@@ -1,10 +1,12 @@
 {
-  "_fv": 39,
+  "_fv": 47,
   "_type": "item",
   "definition": {
     "renderType": 0,
     "texture": "obsidian_ingot",
     "customModelName": "Normal",
+    "customProperties": {},
+    "states": [],
     "name": "Obsidian ingot",
     "rarity": "COMMON",
     "creativeTab": {

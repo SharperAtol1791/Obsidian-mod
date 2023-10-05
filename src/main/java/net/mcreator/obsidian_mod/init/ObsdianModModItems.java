@@ -1,4 +1,3 @@
-
 /*
  *	MCreator note: This file will be REGENERATED on each build.
  */
@@ -41,5 +40,8 @@ public class ObsdianModModItems {
 		OBSIDIANHOE = Registry.register(BuiltInRegistries.ITEM, new ResourceLocation(ObsdianModMod.MODID, "obsidianhoe"), new ObsidianhoeItem());
 		OBSIDIANPICKAXE = Registry.register(BuiltInRegistries.ITEM, new ResourceLocation(ObsdianModMod.MODID, "obsidianpickaxe"), new ObsidianpickaxeItem());
 		OBSIDIANSHOVEL = Registry.register(BuiltInRegistries.ITEM, new ResourceLocation(ObsdianModMod.MODID, "obsidianshovel"), new ObsidianshovelItem());
+	}
+
+	public static void clientLoad() {
 	}
 }

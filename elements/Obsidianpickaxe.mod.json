@@ -1,25 +1,29 @@
 {
-  "_fv": 39,
+  "_fv": 47,
   "_type": "tool",
   "definition": {
+    "toolType": "Pickaxe",
     "renderType": 0,
     "texture": "obsidian__pickaxe",
     "customModelName": "Normal",
-    "name": "Obsidianpickaxe",
+    "name": "Obsidian pickaxe",
     "specialInfo": [],
     "creativeTab": {
       "value": "CUSTOM:Obsidianmod"
     },
-    "toolType": "Pickaxe",
-    "harvestLevel": 4,
-    "efficiency": 9.0,
+    "harvestLevel": 6,
+    "efficiency": 16.0,
     "attackSpeed": 1.0,
-    "enchantability": 17,
-    "damageVsEntity": 7.0,
-    "usageCount": 3072,
+    "enchantability": 16,
+    "damageVsEntity": 10.0,
+    "usageCount": 3678,
     "blocksAffected": [],
     "hasGlow": false,
-    "repairItems": [],
+    "repairItems": [
+      {
+        "value": "CUSTOM:Obsidianingot"
+      }
+    ],
     "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false
