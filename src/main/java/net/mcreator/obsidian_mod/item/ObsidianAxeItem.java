@@ -29,7 +29,7 @@ public class ObsidianAxeItem extends AxeItem {
 			}
 
 			public float getAttackDamageBonus() {
-				return 18f;
+				return 21f;
 			}
 
 			public int getLevel() {
