@@ -1,5 +1,5 @@
 {
-  "_fv": 43,
+  "_fv": 60,
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
@@ -12,35 +12,35 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "CUSTOM:Obsidianingot"
+        "value": "CUSTOM:ObsidianIngot"
       },
       {
         "value": ""
       },
       {
-        "value": "CUSTOM:Obsidianingot"
+        "value": "CUSTOM:ObsidianIngot"
       },
       {
-        "value": "CUSTOM:Obsidianingot"
+        "value": "CUSTOM:ObsidianIngot"
       },
       {
-        "value": "CUSTOM:Obsidianingot"
+        "value": "CUSTOM:ObsidianIngot"
       },
       {
-        "value": "CUSTOM:Obsidianingot"
+        "value": "CUSTOM:ObsidianIngot"
       },
       {
-        "value": "CUSTOM:Obsidianingot"
+        "value": "CUSTOM:ObsidianIngot"
       },
       {
-        "value": "CUSTOM:Obsidianingot"
+        "value": "CUSTOM:ObsidianIngot"
       },
       {
-        "value": "CUSTOM:Obsidianingot"
+        "value": "CUSTOM:ObsidianIngot"
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Obsidianarmor.body"
+      "value": "CUSTOM:Obsidian.body"
     },
     "name": "rcobch",
     "namespace": "mod"

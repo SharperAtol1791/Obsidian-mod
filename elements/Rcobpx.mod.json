@@ -1,5 +1,5 @@
 {
-  "_fv": 43,
+  "_fv": 60,
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
@@ -12,13 +12,13 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "CUSTOM:Obsidianingot"
+        "value": "CUSTOM:ObsidianIngot"
       },
       {
-        "value": "CUSTOM:Obsidianingot"
+        "value": "CUSTOM:ObsidianIngot"
       },
       {
-        "value": ""
+        "value": "CUSTOM:ObsidianIngot"
       },
       {
         "value": ""
@@ -40,9 +40,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Obsidianhoe"
+      "value": "CUSTOM:ObsidianPickaxe"
     },
-    "name": "rcobho_2",
+    "name": "rcobpx",
     "namespace": "mod"
   }
 }

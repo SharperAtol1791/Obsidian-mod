@@ -1,13 +1,13 @@
 {
-  "item.obsdian_mod.obsidianingot": "Обсидиановый слиток",
-  "item.obsdian_mod.obsidianarmor_chestplate": "Обсидиановый нагрудник",
-  "item.obsdian_mod.obsidianshovel": "Обсидиановая лопата",
-  "item.obsdian_mod.obsidianhoe": "Обсидиановая мотыга",
-  "item.obsdian_mod.obsidianaxe": "Обсидиановый тапор",
-  "item.obsdian_mod.obsidianarmor_helmet": "Обсидиановый шлем",
-  "item.obsdian_mod.obsidianpickaxe": "Обсидиановая кирка",
-  "item.obsdian_mod.obsidianarmor_boots": "Обсидиановые ботинки",
-  "item.obsdian_mod.obsidiansword": "Обсидиановый меч",
-  "item.obsdian_mod.obsidianarmor_leggings": "Обсидиановые поножи",
-  "item_group.obsdian_mod.obsidianmod": "Obsidian mod"
+  "item.obsdian_mod.obsidian_helmet": "Обсидиановый шлем",
+  "item.obsdian_mod.obsidian_axe": "Обсидиановы топор",
+  "item.obsdian_mod.obsidian_hoe": "Обсидиановая мотыга",
+  "item.obsdian_mod.obsidian_ingot": "Обсидиановый слиток",
+  "item.obsdian_mod.obsidian_shovel": "Обсидиановая лопата",
+  "item.obsdian_mod.obsidian_boots": "Обсидиановые ботинки",
+  "item.obsdian_mod.obsidian_sword": "Обсидиановый меч",
+  "item.obsdian_mod.obsidian_leggings": "Обсидиановые поножи",
+  "item_group.obsdian_mod.obsidian_mod": "Obsidian Mod",
+  "item.obsdian_mod.obsidian_pickaxe": "Обсидиановая кирка",
+  "item.obsdian_mod.obsidian_chestplate": "Обсидиановый нагрудник"
 }

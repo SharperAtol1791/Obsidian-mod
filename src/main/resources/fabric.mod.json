@@ -1,18 +1,19 @@
 {
   "schemaVersion": 1,
   "id": "obsdian_mod",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "name": "Obsidian mod",
-  "description": "Mod adds Obsidian tools",
+  "description": "Mod adds Obsidian tools ",
   "authors": [
     "SharperAtol1791"
   ],
   "contact": {
     "homepage": "https://mcreator.net",
-    "sources": "https://github.com/SharperAtol1791/Obsidian-mod.git"
+    "sources": ""
   },
   "license": "GNU General Public License version 3 (GPLv3)",
   "icon": "assets/obsdian_mod/icon.png",
+  "accessWidener": "obsdian_mod.accesswidener",
   "environment": "*",
   "entrypoints": {
     "main": [

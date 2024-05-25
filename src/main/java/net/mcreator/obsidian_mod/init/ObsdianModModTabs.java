@@ -18,10 +18,10 @@ import net.mcreator.obsidian_mod.ObsdianModMod;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 
 public class ObsdianModModTabs {
-	public static ResourceKey<CreativeModeTab> TAB_OBSIDIANMOD = ResourceKey.create(Registries.CREATIVE_MODE_TAB, new ResourceLocation(ObsdianModMod.MODID, "obsidianmod"));
+	public static ResourceKey<CreativeModeTab> TAB_OBSIDIAN_MOD = ResourceKey.create(Registries.CREATIVE_MODE_TAB, new ResourceLocation(ObsdianModMod.MODID, "obsidian_mod"));
 
 	public static void load() {
-		Registry.register(BuiltInRegistries.CREATIVE_MODE_TAB, TAB_OBSIDIANMOD,
-				FabricItemGroup.builder().title(Component.translatable("item_group." + ObsdianModMod.MODID + ".obsidianmod")).icon(() -> new ItemStack(ObsdianModModItems.OBSIDIANINGOT)).build());
+		Registry.register(BuiltInRegistries.CREATIVE_MODE_TAB, TAB_OBSIDIAN_MOD,
+				FabricItemGroup.builder().title(Component.translatable("item_group." + ObsdianModMod.MODID + ".obsidian_mod")).icon(() -> new ItemStack(ObsdianModModItems.OBSIDIAN_INGOT)).build());
 	}
 }

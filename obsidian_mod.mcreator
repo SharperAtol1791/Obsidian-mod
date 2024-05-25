@@ -1,30 +1,6 @@
 {
   "mod_elements": [
     {
-      "name": "Obsidianingot",
-      "type": "item",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "obsidianingot",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/obsidian_mod/item/ObsidianingotItem.java",
-          "src/main/resources/assets/obsdian_mod/models/item/obsidianingot.json"
-        ]
-      }
-    },
-    {
-      "name": "Obsidianmod",
-      "type": "tab",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "obsidianmod",
-      "metadata": {
-        "files": []
-      }
-    },
-    {
       "name": "Rcobing",
       "type": "recipe",
       "sortid": 4,
@@ -34,36 +10,6 @@
       "metadata": {
         "files": [
           "src/main/resources/data/obsdian_mod/recipes/rcobing.json"
-        ]
-      }
-    },
-    {
-      "name": "Obsidianarmor",
-      "type": "armor",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "obsidianarmor",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/obsidian_mod/item/ObsidianarmorItem.java",
-          "src/main/resources/assets/obsdian_mod/models/item/obsidianarmor_chestplate.json",
-          "src/main/resources/assets/obsdian_mod/models/item/obsidianarmor_leggings.json",
-          "src/main/resources/assets/obsdian_mod/models/item/obsidianarmor_helmet.json",
-          "src/main/resources/assets/obsdian_mod/models/item/obsidianarmor_boots.json"
-        ]
-      }
-    },
-    {
-      "name": "Rcobh",
-      "type": "recipe",
-      "sortid": 3,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "rcobh",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/obsdian_mod/recipes/rcobsidianaxe_2.json"
         ]
       }
     },
@@ -107,47 +53,6 @@
       }
     },
     {
-      "name": "Obsidiansword",
-      "type": "tool",
-      "sortid": 8,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "obsidiansword",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/obsidian_mod/item/ObsidianswordItem.java",
-          "src/main/resources/assets/obsdian_mod/models/item/obsidiansword.json"
-        ]
-      }
-    },
-    {
-      "name": "Rcobsw",
-      "type": "recipe",
-      "sortid": 9,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "rcobsw",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/obsdian_mod/recipes/rcobho.json"
-        ]
-      }
-    },
-    {
-      "name": "Obsidianaxe",
-      "type": "tool",
-      "sortid": 10,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "obsidianaxe",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/obsidian_mod/item/ObsidianaxeItem.java",
-          "src/main/resources/assets/obsdian_mod/models/item/obsidianaxe.json"
-        ]
-      }
-    },
-    {
       "name": "Rcobsidianaxe",
       "type": "recipe",
       "sortid": 11,
@@ -156,133 +61,204 @@
       "registry_name": "rcobsidianaxe",
       "metadata": {
         "files": [
-          "src/main/resources/data/obsdian_mod/recipes/rcobpx.json"
+          "src/main/resources/data/obsdian_mod/recipes/rcoblg.json"
         ]
       }
     },
     {
-      "name": "Rcobsidianaxe2",
-      "type": "recipe",
-      "sortid": 12,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "rcobsidianaxe_2",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/obsdian_mod/recipes/rcobsidianaxe_2.json"
-        ]
-      }
-    },
-    {
-      "name": "Obsidianhoe",
+      "name": "ObsidianSword",
       "type": "tool",
-      "sortid": 13,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "obsidianhoe",
+      "registry_name": "obsidian_sword",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/obsidian_mod/item/ObsidianhoeItem.java",
-          "src/main/resources/assets/obsdian_mod/models/item/obsidianhoe.json"
+          "src/main/resources/assets/obsdian_mod/models/item/obsidian_sword.json",
+          "src/main/java/net/mcreator/obsidian_mod/item/ObsidianSwordItem.java"
         ]
       }
     },
     {
-      "name": "Rcobho",
+      "name": "Rcobsw",
       "type": "recipe",
-      "sortid": 14,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rcobho",
+      "registry_name": "rcobsw",
       "metadata": {
         "files": [
-          "src/main/resources/data/obsdian_mod/recipes/rcobho.json"
+          "src/main/resources/data/obsdian_mod/recipes/rcobsw.json"
         ]
       }
     },
     {
-      "name": "Rcobho2",
-      "type": "recipe",
-      "sortid": 15,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "rcobho_2",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/obsdian_mod/recipes/rcobho_2.json"
-        ]
-      }
-    },
-    {
-      "name": "Obsidianpickaxe",
+      "name": "ObsidianAxe",
       "type": "tool",
-      "sortid": 16,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "obsidianpickaxe",
+      "registry_name": "obsidian_axe",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/obsidian_mod/item/ObsidianpickaxeItem.java",
-          "src/main/resources/assets/obsdian_mod/models/item/obsidianpickaxe.json"
+          "src/main/resources/assets/obsdian_mod/models/item/obsidian_axe.json",
+          "src/main/java/net/mcreator/obsidian_mod/item/ObsidianAxeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Rcobax",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rcobax",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/obsdian_mod/recipes/rcobax.json"
+        ]
+      }
+    },
+    {
+      "name": "ObsidianHoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_hoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/obsdian_mod/models/item/obsidian_hoe.json",
+          "src/main/java/net/mcreator/obsidian_mod/item/ObsidianHoeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Rcobhe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rcobhe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/obsdian_mod/recipes/rcobhe.json"
+        ]
+      }
+    },
+    {
+      "name": "ObsidianPickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/obsdian_mod/models/item/obsidian_pickaxe.json",
+          "src/main/java/net/mcreator/obsidian_mod/item/ObsidianPickaxeItem.java"
         ]
       }
     },
     {
       "name": "Rcobpx",
       "type": "recipe",
-      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rcobpx",
       "metadata": {
         "files": [
-          "src/main/resources/data/obsdian_mod/recipes/rcobho_2.json"
+          "src/main/resources/data/obsdian_mod/recipes/rcobpx.json"
         ]
       }
     },
     {
-      "name": "Obsidianshovel",
+      "name": "ObsidianShovel",
       "type": "tool",
-      "sortid": 18,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "obsidianshovel",
+      "registry_name": "obsidian_shovel",
       "metadata": {
         "files": [
-          "src/main/resources/assets/obsdian_mod/models/item/obsidianshovel.json",
-          "src/main/java/net/mcreator/obsidian_mod/item/ObsidianshovelItem.java"
+          "src/main/java/net/mcreator/obsidian_mod/item/ObsidianShovelItem.java",
+          "src/main/resources/assets/obsdian_mod/models/item/obsidian_shovel.json"
         ]
+      }
+    },
+    {
+      "name": "Rcobshv",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rcobshv",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/obsdian_mod/recipes/rcobshv.json"
+        ]
+      }
+    },
+    {
+      "name": "ObsidianIngot",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_ingot",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/obsdian_mod/models/item/obsidian_ingot.json",
+          "src/main/java/net/mcreator/obsidian_mod/item/ObsidianIngotItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Obsidian",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/obsdian_mod/models/item/obsidian_boots.json",
+          "src/main/java/net/mcreator/obsidian_mod/item/ObsidianItem.java",
+          "src/main/resources/assets/obsdian_mod/models/item/obsidian_chestplate.json",
+          "src/main/resources/assets/obsdian_mod/models/item/obsidian_leggings.json",
+          "src/main/resources/assets/obsdian_mod/models/item/obsidian_helmet.json"
+        ]
+      }
+    },
+    {
+      "name": "ObsidianMod",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_mod",
+      "metadata": {
+        "files": []
       }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
+  "tag_elements": {},
   "language_map": {
     "ru_ru": {
-      "item.obsdian_mod.obsidianingot": "Обсидиановый слиток",
-      "item.obsdian_mod.obsidianarmor_chestplate": "Обсидиановый нагрудник",
-      "item.obsdian_mod.obsidianshovel": "Обсидиановая лопата",
-      "item.obsdian_mod.obsidianhoe": "Обсидиановая мотыга",
-      "item.obsdian_mod.obsidianaxe": "Обсидиановый тапор",
-      "item.obsdian_mod.obsidianarmor_helmet": "Обсидиановый шлем",
-      "item.obsdian_mod.obsidianpickaxe": "Обсидиановая кирка",
-      "item.obsdian_mod.obsidianarmor_boots": "Обсидиановые ботинки",
-      "item.obsdian_mod.obsidiansword": "Обсидиановый меч",
-      "item.obsdian_mod.obsidianarmor_leggings": "Обсидиановые поножи",
-      "item_group.obsdian_mod.obsidianmod": "Obsidian mod"
+      "item.obsdian_mod.obsidian_helmet": "Обсидиановый шлем",
+      "item.obsdian_mod.obsidian_axe": "Обсидиановы топор",
+      "item.obsdian_mod.obsidian_hoe": "Обсидиановая мотыга",
+      "item.obsdian_mod.obsidian_ingot": "Обсидиановый слиток",
+      "item.obsdian_mod.obsidian_shovel": "Обсидиановая лопата",
+      "item.obsdian_mod.obsidian_boots": "Обсидиановые ботинки",
+      "item.obsdian_mod.obsidian_sword": "Обсидиановый меч",
+      "item.obsdian_mod.obsidian_leggings": "Обсидиановые поножи",
+      "item_group.obsdian_mod.obsidian_mod": "Obsidian Mod",
+      "item.obsdian_mod.obsidian_pickaxe": "Обсидиановая кирка",
+      "item.obsdian_mod.obsidian_chestplate": "Обсидиановый нагрудник"
     },
     "en_us": {
-      "item.obsdian_mod.obsidianingot": "Obsidian ingot",
-      "item.obsdian_mod.obsidianarmor_chestplate": "Obsidian chestplate",
-      "item.obsdian_mod.obsidianshovel": "Obsidian shovel",
-      "item.obsdian_mod.obsidianhoe": "Obsidianhoe",
-      "item.obsdian_mod.obsidianaxe": "Obsidian axe",
-      "item.obsdian_mod.obsidianarmor_helmet": "Obsidian helmet",
-      "item.obsdian_mod.obsidianpickaxe": "Obsidian pickaxe",
-      "item.obsdian_mod.obsidianarmor_boots": "Obsidian boots",
-      "item.obsdian_mod.obsidiansword": "Obsidiansword",
-      "item.obsdian_mod.obsidianarmor_leggings": "Obsidian leggings",
-      "item_group.obsdian_mod.obsidianmod": "Obsidian mod"
+      "item.obsdian_mod.obsidian_helmet": "Obsidian Helmet",
+      "item.obsdian_mod.obsidian_axe": "Obsidian Axe",
+      "item.obsdian_mod.obsidian_hoe": "Obsidian Hoe",
+      "item.obsdian_mod.obsidian_ingot": "Obsidian Ingot",
+      "item.obsdian_mod.obsidian_shovel": "Obsidian Shovel",
+      "item.obsdian_mod.obsidian_boots": "Obsidian Boots",
+      "item.obsdian_mod.obsidian_sword": "Obsidian Sword",
+      "item.obsdian_mod.obsidian_leggings": "Obsidian Leggings",
+      "item_group.obsdian_mod.obsidian_mod": "Obsidian Mod",
+      "item.obsdian_mod.obsidian_pickaxe": "Obsidian Pickaxe",
+      "item.obsdian_mod.obsidian_chestplate": "Obsidian Chestplate"
     }
   },
   "foldersRoot": {
@@ -292,12 +268,11 @@
   "workspaceSettings": {
     "modid": "obsdian_mod",
     "modName": "Obsidian mod",
-    "version": "1.0.0",
-    "description": "Mod adds Obsidian tools",
+    "version": "1.0.2",
+    "description": "Mod adds Obsidian tools ",
     "author": "SharperAtol1791",
     "websiteURL": "https://mcreator.net",
     "license": "GNU General Public License version 3 (GPLv3)",
-    "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "modPicture": "obsidian_logo",
     "requiredMods": [],
@@ -306,8 +281,7 @@
     "mcreatorDependencies": [],
     "currentGenerator": "fabric-1.20.1",
     "credits": "SharperAtol1791",
-    "modElementsPackage": "net.mcreator.obsidian_mod",
-    "lockBaseModFiles": false
+    "modElementsPackage": "net.mcreator.obsidian_mod"
   },
-  "mcreatorVersion": 202300224119
+  "mcreatorVersion": 202400118518
 }

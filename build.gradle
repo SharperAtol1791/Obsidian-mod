@@ -1,5 +1,5 @@
 plugins {
-    id 'fabric-loom' version '1.2-SNAPSHOT'
+    id 'fabric-loom' version '1.4-SNAPSHOT'
 }
 
 sourceCompatibility = JavaVersion.VERSION_17
@@ -14,6 +14,8 @@ loom {
     mixin {
         defaultRefmapName = actualmodid + ".refmap.json"
     }
+    if (file("src/main/resources/obsdian_mod.accesswidener").exists())
+        accessWidenerPath = file("src/main/resources/obsdian_mod.accesswidener")
 }
 
 dependencies {
@@ -46,12 +48,6 @@ java {
 
 jar {
     from "LICENSE"
-}
-
-loom {
-	mixin {
-		defaultRefmapName = actualmodid + ".refmap.json"
-	}
 }
 
 apply from: 'mcreator.gradle'

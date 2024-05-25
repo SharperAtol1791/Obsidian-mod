@@ -1,5 +1,5 @@
 {
-  "_fv": 43,
+  "_fv": 60,
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
@@ -21,26 +21,26 @@
         "value": ""
       },
       {
-        "value": "CUSTOM:Obsidianingot"
+        "value": "CUSTOM:ObsidianIngot"
       },
       {
         "value": ""
       },
       {
-        "value": "CUSTOM:Obsidianingot"
+        "value": "CUSTOM:ObsidianIngot"
       },
       {
-        "value": "CUSTOM:Obsidianingot"
+        "value": "CUSTOM:ObsidianIngot"
       },
       {
         "value": ""
       },
       {
-        "value": "CUSTOM:Obsidianingot"
+        "value": "CUSTOM:ObsidianIngot"
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Obsidianarmor.boots"
+      "value": "CUSTOM:Obsidian.boots"
     },
     "name": "rcobbt",
     "namespace": "mod"

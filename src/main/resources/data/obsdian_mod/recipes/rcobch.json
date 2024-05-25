@@ -2,38 +2,17 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "pattern": [
-    "0 2",
-    "345",
-    "678"
+    "a a",
+    "aaa",
+    "aaa"
   ],
   "key": {
-    "0": {
-      "item": "obsdian_mod:obsidianingot"
-    },
-    "2": {
-      "item": "obsdian_mod:obsidianingot"
-    },
-    "3": {
-      "item": "obsdian_mod:obsidianingot"
-    },
-    "4": {
-      "item": "obsdian_mod:obsidianingot"
-    },
-    "5": {
-      "item": "obsdian_mod:obsidianingot"
-    },
-    "6": {
-      "item": "obsdian_mod:obsidianingot"
-    },
-    "7": {
-      "item": "obsdian_mod:obsidianingot"
-    },
-    "8": {
-      "item": "obsdian_mod:obsidianingot"
+    "a": {
+      "item": "obsdian_mod:obsidian_ingot"
     }
   },
   "result": {
-    "item": "obsdian_mod:obsidianarmor_chestplate",
+    "item": "obsdian_mod:obsidian_chestplate",
     "count": 1
   }
 }

@@ -1,5 +1,5 @@
 {
-  "_fv": 43,
+  "_fv": 60,
   "_type": "recipe",
   "definition": {
     "recipeType": "Smelting",
@@ -14,7 +14,7 @@
       "value": "Blocks.OBSIDIAN"
     },
     "smeltingReturnStack": {
-      "value": "CUSTOM:Obsidianingot"
+      "value": "CUSTOM:ObsidianIngot"
     },
     "name": "rcobing",
     "namespace": "mod"

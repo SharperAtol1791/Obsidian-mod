@@ -1,13 +1,13 @@
 {
-  "item.obsdian_mod.obsidianingot": "Obsidian ingot",
-  "item.obsdian_mod.obsidianarmor_chestplate": "Obsidian chestplate",
-  "item.obsdian_mod.obsidianshovel": "Obsidian shovel",
-  "item.obsdian_mod.obsidianhoe": "Obsidianhoe",
-  "item.obsdian_mod.obsidianaxe": "Obsidian axe",
-  "item.obsdian_mod.obsidianarmor_helmet": "Obsidian helmet",
-  "item.obsdian_mod.obsidianpickaxe": "Obsidian pickaxe",
-  "item.obsdian_mod.obsidianarmor_boots": "Obsidian boots",
-  "item.obsdian_mod.obsidiansword": "Obsidiansword",
-  "item.obsdian_mod.obsidianarmor_leggings": "Obsidian leggings",
-  "item_group.obsdian_mod.obsidianmod": "Obsidian mod"
+  "item.obsdian_mod.obsidian_helmet": "Obsidian Helmet",
+  "item.obsdian_mod.obsidian_axe": "Obsidian Axe",
+  "item.obsdian_mod.obsidian_hoe": "Obsidian Hoe",
+  "item.obsdian_mod.obsidian_ingot": "Obsidian Ingot",
+  "item.obsdian_mod.obsidian_shovel": "Obsidian Shovel",
+  "item.obsdian_mod.obsidian_boots": "Obsidian Boots",
+  "item.obsdian_mod.obsidian_sword": "Obsidian Sword",
+  "item.obsdian_mod.obsidian_leggings": "Obsidian Leggings",
+  "item_group.obsdian_mod.obsidian_mod": "Obsidian Mod",
+  "item.obsdian_mod.obsidian_pickaxe": "Obsidian Pickaxe",
+  "item.obsdian_mod.obsidian_chestplate": "Obsidian Chestplate"
 }

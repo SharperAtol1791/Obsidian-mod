@@ -1,5 +1,5 @@
 {
-  "_fv": 43,
+  "_fv": 60,
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
@@ -15,16 +15,16 @@
         "value": ""
       },
       {
-        "value": "CUSTOM:Obsidianingot"
-      },
-      {
-        "value": "CUSTOM:Obsidianingot"
+        "value": "CUSTOM:ObsidianIngot"
       },
       {
         "value": ""
       },
       {
-        "value": "Items.STICK"
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ObsidianIngot"
       },
       {
         "value": ""
@@ -40,9 +40,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Obsidianhoe"
+      "value": "CUSTOM:ObsidianSword"
     },
-    "name": "rcobho",
+    "name": "rcobsw",
     "namespace": "mod"
   }
 }

@@ -2,29 +2,20 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "pattern": [
-    "012",
-    " 4 ",
-    " 7 "
+    "aaa",
+    " b ",
+    " b "
   ],
   "key": {
-    "0": {
-      "item": "obsdian_mod:obsidianingot"
+    "a": {
+      "item": "obsdian_mod:obsidian_ingot"
     },
-    "1": {
-      "item": "obsdian_mod:obsidianingot"
-    },
-    "2": {
-      "item": "obsdian_mod:obsidianingot"
-    },
-    "4": {
-      "item": "minecraft:stick"
-    },
-    "7": {
+    "b": {
       "item": "minecraft:stick"
     }
   },
   "result": {
-    "item": "obsdian_mod:obsidianpickaxe",
+    "item": "obsdian_mod:obsidian_pickaxe",
     "count": 1
   }
 }
