@@ -21,7 +21,7 @@ public class ObsidianHoeItem extends HoeItem {
 	public ObsidianHoeItem() {
 		super(new Tier() {
 			public int getUses() {
-				return 3678;
+				return 3680;
 			}
 
 			public float getSpeed() {
